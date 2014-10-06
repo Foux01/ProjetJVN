@@ -17,7 +17,7 @@ import java.io.*;
 
 public class Irc {
 	public TextArea		text;
-	public TextField	data;
+	public TextField	data; 
 	Frame 			frame;
 	JvnObject       sentence;
 
